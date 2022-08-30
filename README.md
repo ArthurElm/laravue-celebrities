@@ -5,14 +5,14 @@
 ```composer create-project laravel/laravel laravue-celebrities```
 
 ## Setup Tailwind
-```npm install -D tailwindcss postcss autoprefixer```
-```npx tailwindcss init -p```
+*```npm install -D tailwindcss postcss autoprefixer```
+*```npx tailwindcss init -p```
 
 ## Setup Vuejs
 ```npm install vue@next vue-router@next vue-loader@next```
 
 ## To lauch project 
-First time only :
+*First time only :
 ```npm install```
-Launch project :
+*Launch project :
 ```php artisan serve```
