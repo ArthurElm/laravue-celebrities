@@ -1,5 +1,5 @@
 # Laravue Celebrities
-Tech test for Hellosce
+### Tech test for Hellosce
 
 ## Setup Laravel
 ```composer create-project laravel/laravel laravue-celebrities```
