@@ -14,7 +14,5 @@
 ## To lauch project 
 First time only :
 ```npm install```
-First terminal :
+Launch project :
 ```php artisan serve```
-Second terminal : 
-```npm run dev```
